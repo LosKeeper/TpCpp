@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/tp1ex1.dir/university.cpp.o CMakeFiles/tp1ex1.dir/main.cpp.o -o tp1ex1 
